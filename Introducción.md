@@ -1,7 +1,12 @@
 ## Introducción 
 - ### **¿Qué es Python?**
 Python es un lenguaje de programación versátil, fácil de aprender y ampliamente utilizado en diversos campos de la tecnología.
+
 Creado originalmente por: Guido Van Rossum, nombrado así por el programa de televisión de BBC 'Monty Python's Flying Circus'.
+
+Durante este curso, explorarás los fundamentos de Python, adquiriendo las habilidades necesarias para escribir tus primeros programas y resolver problemas de manera efectiva. 
+
+Al finalizar, tendrás una base sólida que te permitirá abordar proyectos en diversas áreas como el desarrollo web, automatización de tareas, ciencia de datos y mucho más.
 
   - **Lenguaje de propósito general:** Útil para desarrollo web, ciencia de datos, inteligencia artificial, automatización, y más.
   - **Fácil de aprender:** Su sintaxis es limpia y legible, ideal para principiantes.
@@ -71,3 +76,4 @@ Sin embargo, si son del mismo "orden" Python las elabora de izquierda a derecha:
 
 ```2 * 2 / 3```
 
+---
