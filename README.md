@@ -15,5 +15,6 @@
 El objetivo es presentar un nuevo lenguaje de programación como una herramienta innovadora que permitirá a los participantes potenciar sus habilidades técnicas y ampliar su versatilidad en el ámbito del desarrollo de software.
 
 Elementos que verémos en este curso:
-* 
-* 
+- Variables y tipos de datos: Números, cadenas, listas.
+- Estructuras de control: Condicionales (if), bucles (for, while).
+- Funciones: Cómo definir y usar funciones (def).
