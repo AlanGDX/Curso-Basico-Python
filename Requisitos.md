@@ -22,9 +22,11 @@
 
 ---
 ### ¿Cómo comenzar a usar Jupyter?
+
 Para poder comenzar a usar Jupyter debemos acceder al enlace proporcionado anteriormente([Jupyter](https://jupyter.org))
 
 **Paso 1:**
+
 Ahora, al acceder al enlace obtendremos acceso al siguiente sitio:
 
 ![Paso 1](Imagenes/captura_jupy.PNG)
@@ -32,6 +34,7 @@ Ahora, al acceder al enlace obtendremos acceso al siguiente sitio:
 Como indica la flecha necesitamos dar click en el apartado "TRY" para poder comenzar a utilizar Jupyter.
 
 **Paso 2:**
+
 Al dar click, accederemos a la siguiente sección para poder elegir en que modalidad utilizaremos Jupyter:
 
 ![Paso 2](Imagenes/jupynb.png)
@@ -39,13 +42,13 @@ Al dar click, accederemos a la siguiente sección para poder elegir en que modal
 Utilizaremos la modalidad de Jupyter notebook, la cual nos dará acceso a una interfaz donde serémos capaces de comenzar a codificar en python.
 
 **Paso 3:**
-Aquí podemos hacer 2 cosas:
 
 ![Paso 3](Imagenes/nb-intro.png)
 
 Nos mostrarán un poco de información de introducción a lo que es JupyterLab y Jupyter Notebooks, si lo desean pueden continuar con la lectura de esta información para poder utilizarla en un futuro.
 
 **Paso 4:**
+
 Esta plataforma nos permite escribir el código y ejecutarlo por campos(celdas), en donde podremos escribir las líneas de código que necesitemos, pero antes de comenzar a escribir debemos generar dichos campos, de la siguiente manera:
 
 ![Paso 4](Imagenes/nb_continue.png)
