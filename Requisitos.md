@@ -43,9 +43,10 @@ Utilizaremos la modalidad de Jupyter notebook, la cual nos dará acceso a una in
 
 **Paso 3:**
 
+Nos mostrarán un poco de información de introducción a lo que es JupyterLab y Jupyter Notebooks, si lo desean pueden continuar con la lectura de esta información para poder utilizarla en un futuro.
+
 ![Paso 3](Imagenes/nb-intro.png)
 
-Nos mostrarán un poco de información de introducción a lo que es JupyterLab y Jupyter Notebooks, si lo desean pueden continuar con la lectura de esta información para poder utilizarla en un futuro.
 
 **Paso 4:**
 
