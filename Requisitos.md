@@ -11,7 +11,7 @@
 - **Editor de texto o IDE:** Como:
   - [Visual Studio Code](https://code.visualstudio.com)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
-  - [Jupyter Notebook](https://jupyter.org)(¿[Cómo comenzar a usar Jupyter?](#cómo-comenzar-a-usar-jupyter)).
+  - [Jupyter Notebook](https://jupyter.org) ([¿Cómo comenzar a usar Jupyter?](#cómo-comenzar-a-usar-jupyter)).
 - Instalar [Python](Python.org)
 
 ---
