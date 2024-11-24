@@ -8,7 +8,10 @@
 ### Equipamiento Necesario:
 - **Computadora:** Con acceso a internet y capacidad para instalar Python.
 - **Sistema operativo:** Windows, macOS o Linux (Python es compatible con todos).
-- **Editor de texto o IDE:** Como [Visual Studio Code](https://code.visualstudio.com), [PyCharm](https://www.jetbrains.com/pycharm/) o [Jupyter Notebook](https://jupyter.org)(¿[Cómo comenzar a usar Jupyter?](#cómo-comenzar-a-usar-jupyter)).
+- **Editor de texto o IDE:** Como:
+  - [Visual Studio Code](https://code.visualstudio.com)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [Jupyter Notebook](https://jupyter.org)(¿[Cómo comenzar a usar Jupyter?](#cómo-comenzar-a-usar-jupyter)).
 - Instalar [Python](Python.org)
 
 ---
